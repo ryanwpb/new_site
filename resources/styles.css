@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.nav-area ul{
+    float: right;
+    padding: 50px 20px;
+    margin-right: 10px;
+}
+.nav-area ul li{
+    display: inline-block;
+}
