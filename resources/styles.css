@@ -3,6 +3,10 @@
     margin:0px;
 }
 
+header{
+    background: #2C2C2C;
+    height: 100px;
+}
 .nav-area ul{
     float: right;
     padding: 50px 20px;
@@ -10,4 +14,8 @@
 }
 .nav-area ul li{
     display: inline-block;
+}
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
 }
