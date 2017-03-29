@@ -36,3 +36,13 @@ header{
 .slider{
     height: 450px;
 }
+
+.slide-content {
+    float: right;
+    padding: 50px 0px;
+}
+
+.slide-content h2{
+    font-weight: 100;
+    color: #D8E3EA;
+}
