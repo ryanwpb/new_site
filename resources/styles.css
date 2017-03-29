@@ -5,6 +5,7 @@
 }
 
 
+
 @font-face {
     font-family: 'Raleway', sans-serif;
     src: url(/resources/fonts/Raleway-Regular.ttf);
@@ -12,6 +13,11 @@
 @font-face {
     font-family: 'Lobster', cursive;
     src: url(/resources/fonts/Lobster-Regular.ttf);
+}
+
+.container{
+    width: 1200px;
+    margin:0 auto;
 }
 
 header{
