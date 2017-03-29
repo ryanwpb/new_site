@@ -1,6 +1,17 @@
 *{
     padding: 0px;
     margin:0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url(/resources/fonts/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: 'Lobster', cursive;
+    src: url(/resources/fonts/Lobster-Regular.ttf);
 }
 
 header{
@@ -18,4 +29,6 @@ header{
 .nav-area li a{
     color: #fff;
     text-decoration: none;
+    font-size: 18px;
+    font-weight: 100;
 }
