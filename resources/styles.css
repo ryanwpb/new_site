@@ -100,7 +100,26 @@ header{
 
 .slide-content h2{
     font-weight: 100;
-    color: #D8E3EA;
+    color: #273238;
+}
+
+/*General Info Css*/
+.general-info {
+    margin: 40px auto 0;
+    border-bottom: 2px solid #cacaca;
+    padding: 0 0 40px;
+    text-align: center;
+}
+
+.general-info .cols .col {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 15px;
+    text-align: left;
 }
 
 /*-- Contact Page Css --*/
