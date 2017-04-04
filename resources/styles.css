@@ -32,8 +32,8 @@ header{
 }
 .nav-area ul{
     float: right;
-    padding: 45px 10px;
-    margin-right: 10px;
+    padding: 45px 0px;
+
 }
 .nav-area ul li{
     display: inline-block;
