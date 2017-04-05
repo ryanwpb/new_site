@@ -109,8 +109,27 @@ header{
     border-bottom: 2px solid #cacaca;
     padding: 0 0 40px;
     text-align: center;
+    max-width: 1000px;
+    line-height: 24px;
 }
 
+.general-info p{
+    margin-bottom: 20px;
+}
+
+.cols{
+    display: flex;
+}
+.cols h1{
+    text-align: center;
+}
+
+.cols .col.col-left p{
+    padding: 0px 10px;
+}
+.cols .col.col-right p{
+    padding:0px 10px;
+}
 .general-info .cols .col {
     width: 50%;
     display: inline-block;
