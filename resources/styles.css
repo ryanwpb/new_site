@@ -102,6 +102,17 @@ header{
     font-weight: 100;
     color: #273238;
 }
+.slick-dots li button{
+    background: #fff;
+    text-indent: -99999px;
+    border-radius: 100%;
+    border: none;
+}
+.slick-dots li.slick-active button {
+    background: #006687;
+
+}
+
 
 /*General Info Css*/
 .general-info {
@@ -139,6 +150,18 @@ header{
     box-sizing: border-box;
     font-size: 15px;
     text-align: left;
+}
+
+/*-- Breadcrumb Css --*/
+.breadcrumb-area{
+    background: #EF4658;
+}
+.page-title{
+    color: #fff;
+    padding: 20px 0px;
+}
+.page-links{
+    float: right;
 }
 
 /*-- Contact Page Css --*/
