@@ -155,13 +155,22 @@ header{
 /*-- Breadcrumb Css --*/
 .breadcrumb-area{
     background: #EF4658;
+
 }
 .page-title{
     color: #fff;
     padding: 20px 0px;
+    width: 50%;
 }
 .page-links{
     float: right;
+    margin-top: -40px;
+    margin-right: 20px;
+}
+
+.page-links span ,a{
+    color: #fff;
+    text-decoration: none;
 }
 
 /*-- Contact Page Css --*/
