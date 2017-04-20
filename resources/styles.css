@@ -173,6 +173,33 @@ header{
     text-decoration: none;
 }
 
+/*-- Three Boxes Css*/
+.three-boxes{
+    background: #EF4658;
+}
+.box-area{
+    display: flex;
+    width: 100%;
+    padding: 40px 0px;
+}
+.box{
+    width: 33%;
+    height: 400px; width: 300px;
+    border: solid 2px #273238;
+    border-radius: 5px;
+    margin: 0px auto;
+    background: #e5e5e5;
+}
+.box-title{
+    display: flex;
+}
+.box-img{
+    margin: 20px 10px;
+    height: 75px;
+    width: 75px;
+    background: #273238;
+    border-radius: 100px;
+}
 /*-- Contact Page Css --*/
 .iframe-container{
     text-align: center;
@@ -186,3 +213,4 @@ iframe {
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
 }
+
