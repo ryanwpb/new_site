@@ -193,6 +193,9 @@ header{
 .box-title{
     display: flex;
 }
+.box-title h1{
+    padding: 40px 0px;
+}
 .box-img{
     margin: 20px 10px;
     height: 75px;
