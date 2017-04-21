@@ -8,3 +8,4 @@ $('.slider-area').slick({
     autoplaySpeed: 7000,
 
 });
+
