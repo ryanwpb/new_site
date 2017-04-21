@@ -28,11 +28,11 @@
 
 header{
     background: #273238;
-    height: 111px;
+    height: 100px;
 }
 .nav-area ul{
     float: right;
-    padding: 45px 0px;
+    padding: 40px 0px;
 
 }
 .nav-area ul li{
