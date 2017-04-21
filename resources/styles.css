@@ -203,6 +203,18 @@ header{
     background: #273238;
     border-radius: 100px;
 }
+
+.box-img img{
+    border-radius: 100px;
+}
+.box p{
+    position: relative;
+    left: 95px;
+    bottom: 40px;
+    color: #aaa;
+    font-size: 14px;
+}
+
 /*-- Contact Page Css --*/
 .iframe-container{
     text-align: center;
