@@ -221,6 +221,9 @@ header{
     padding: 0px 15px;
     line-height: 20px;
 }
+.box-desc-p i{
+    color: #aaa;
+}
 
 /*-- Contact Page Css --*/
 .iframe-container{
