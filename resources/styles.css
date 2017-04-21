@@ -207,12 +207,15 @@ header{
 .box-img img{
     border-radius: 100px;
 }
-.box p{
+.box .title-p{
     position: relative;
     left: 95px;
     bottom: 45px;
     color: #aaa;
     font-size: 14px;
+}
+.box-desc-p{
+    padding: 0px 15px;
 }
 
 /*-- Contact Page Css --*/
