@@ -245,3 +245,18 @@ iframe {
     filter: grayscale(100%);
 }
 
+/*-- Footer CSS --*/
+footer{
+    background: #3c3c3c;
+    height: auto;
+}
+ footer .col{
+     display: inline-block;
+     width: 33%;
+     vertical-align: top;
+     padding: 0 20px;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+     text-align: center;
+ }
