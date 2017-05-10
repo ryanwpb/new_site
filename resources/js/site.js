@@ -5,7 +5,7 @@ $('.slider-area').slick({
     autoplay: true,
     dots: true,
     arrows: false,
-    autoplaySpeed: 7000,
+    autoplaySpeed: 5000,
 
 });
 
